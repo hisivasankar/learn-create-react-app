@@ -13,4 +13,16 @@ like
 
 I will be adding step by step procedure on every commit/branch.
 
+1.create-package.json
+
+2.create-simple-content
+
+3.create-react-app
+
+4.configure-dependencies
+
+5.configure-webpack
+
+6.configure-webpack-dev
+
 Stay tuned!

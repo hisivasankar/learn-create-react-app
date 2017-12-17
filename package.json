@@ -1,0 +1,10 @@
+{
+  "name": "create-react-app",
+  "version": "1.0.0",
+  "description": "This repo helps you understand how create-react-app from facebook works under the hood",
+  "main": "app.js",
+  "repository": "git@github.com:hisivasankar/create-react-app.git",
+  "author": "Sivasankar <ctsiva25@gmail.com>",
+  "license": "MIT",
+  "private": false
+}

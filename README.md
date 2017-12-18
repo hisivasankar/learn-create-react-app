@@ -25,4 +25,10 @@ I will be adding step by step procedure on every commit/branch.
 
 6.configure-webpack-dev
 
+7.configure-jest
+
+8.add-build-badge
+
+9.configure-coverage-badge
+
 Stay tuned!

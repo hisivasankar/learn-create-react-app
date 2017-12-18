@@ -1,0 +1,9 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`Welcome Component Snapshot test should render 1 <div> with given name property 1`] = `
+<div
+  className="welcome"
+>
+  Hello Siva! Welcome to my website
+</div>
+`;

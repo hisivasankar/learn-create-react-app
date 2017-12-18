@@ -1,4 +1,4 @@
-# create-react-app
+# create-react-app [![Build Status](https://travis-ci.org/hisivasankar/learn-create-react-app.svg?branch=master)](https://travis-ci.org/hisivasankar/learn-create-react-app)
 
  This project is to understand how create-react-app works under the hood
 

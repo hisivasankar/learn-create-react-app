@@ -7,7 +7,7 @@ var config = {
     entry: path.resolve(SRC_DIR, 'app.jsx'),
     module: {
         rules: [{
-            test: /\.jsx$/,
+            test: /\.jsx?$/,
             exclude: /node_modules/,
             use: {
                 loader: 'babel-loader',
@@ -23,6 +23,10 @@ var config = {
     output: {
         path: DIST_DIR,
         filename: "bundle.js"
+    },
+    devServer: {
+        contentBase: './src',
+        publicPath: '/dist'
     }
 };
 

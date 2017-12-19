@@ -31,4 +31,6 @@ I will be adding step by step procedure on every commit/branch.
 
 9.configure-coverage-badge
 
+10.configure-builds
+
 Stay tuned!

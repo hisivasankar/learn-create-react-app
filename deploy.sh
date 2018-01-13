@@ -18,8 +18,8 @@ function getTempName {
 function createTempFolder {
     name=$1
     folder="/tmp/$name" 
-    mkdir folder
-    echo folder
+    mkdir $folder
+    echo $folder
 }
 
 function copyToTempDir {

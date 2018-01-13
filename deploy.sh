@@ -40,7 +40,7 @@ function makeCommit {
 }
 
 function pushCommit {
-    echo "Pushing commit..."
+    echo "Pushing commit @ $(pwd)"
     remote=$1
     branch=$2
     echo "git push $remote HEAD:$branch"
